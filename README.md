@@ -2,7 +2,9 @@
 
 ## Overview
 This repository was created as the second assignment of Google Play and Application Academy. The purpose of the assignment is to teach the concept of branching and this purpose has been successfully achieved.
+
 ----------------------------------------------------------------
+
 # Google Play ve Uygulama Akademisi 2. Ödev: Brancing Uygulaması
 
 ## Genel Bakış
